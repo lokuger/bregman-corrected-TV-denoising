@@ -1,5 +1,5 @@
 # Bregman corrected TV denoising 
-TV denoising algorithms using Bregman bias correction techniques for different noise models
+TV denoising algorithm implementations in MATLAB using Bregman bias correction techniques for different noise models
 
 ## Denoising for Gaussian noise
 This case is solved using Bregman iterations as proposed in [1] by repeatedly solving modified versions of the ROF model with a corrected noise term.
