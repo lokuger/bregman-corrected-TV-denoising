@@ -13,15 +13,15 @@ The denoising case is a special case of the image reconstruction case above, onl
 
 
 ## References
-1: Osher, S.; Burger, M.; Goldfarb, D.; Xu, J.; Yin, W. An Iterative Regularization Method for Total Variation-Based Image Restoration 
+[1] Osher, S.; Burger, M.; Goldfarb, D.; Xu, J.; Yin, W. An Iterative Regularization Method for Total Variation-Based Image Restoration \
 Multiscale Modeling; Simulation, Society for Industrial and Applied Mathematics, 2005, 4, 460-489 
 
-2: Rudin, L. I.; Osher, S.; Fatemi, E. Nonlinear total variation based noise removal algorithms. 
+[2] Rudin, L. I.; Osher, S.; Fatemi, E. Nonlinear total variation based noise removal algorithms \
 Physica D: Nonlinear Phenomena, 1992, 60, 259-268 
 
-3: Chambolle, A. An Algorithm for Total Variation Minimization and Applications
+[3] Chambolle, A. An Algorithm for Total Variation Minimization and Applications \
 Journal of Mathematical Imaging and Vision, 2004, 20, 89-97 
 
-4: Sawatzky, A.; Brune, C.; Kösters, T.; Wübbeling, F. &amp; Burger, M. EM-TV Methods for Inverse Problems with Poisson Noise
-in: Burger, M.; Mennucci, A. C.; Osher, S.; Rumpf, M. (Eds.). Level Set and PDE Based Reconstruction Methods in Imaging, 
+[4] Sawatzky, A.; Brune, C.; Kösters, T.; Wübbeling, F.; Burger, M. EM-TV Methods for Inverse Problems with Poisson Noise \
+In: Burger, M.; Mennucci, A. C.; Osher, S.; Rumpf, M. (Eds.). Level Set and PDE Based Reconstruction Methods in Imaging \
 Springer International Publishing, 2013, 71-142 
